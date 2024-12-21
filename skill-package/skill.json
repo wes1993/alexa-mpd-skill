@@ -10,10 +10,12 @@
             "help"
           ],
           "keywords": [],
-          "name": "MyJukebox",
+          "name": "jukebox",
           "description": "Sample Full Description",
-        }
-        "it-IT": {
+          "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
+        },
+        "de-DE": {
           "summary": "Beispiel Kurze Beschreibung",
           "examplePhrases": [
             "Alexa, öffne meine Jukebox",
@@ -21,9 +23,11 @@
             "hilfe"
           ],
           "keywords": [],
-          "name": "MeineJukebox",
+          "name": "jukebox",
           "description": "Beispiel Vollständige Beschreibung",
-        }  
+          "smallIconUri": "file://assets/images/de-DE_smallIconUri.png",
+          "largeIconUri": "file://assets/images/de-DE_largeIconUri.png"
+        }
       },
       "automaticDistribution": {
         "isActive": false
