@@ -15,6 +15,19 @@
           "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
           "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
         }
+        "it-IT": {
+          "summary": "Beispiel Kurze Beschreibung",
+          "examplePhrases": [
+            "Alexa, öffne meine Jukebox",
+            "hallo",
+            "hilfe"
+          ],
+          "keywords": [],
+          "name": "Meine Jukebox",
+          "description": "Beispiel Vollständige Beschreibung",
+          "smallIconUri": "file://assets/images/de-DE_smallIconUri.png",
+          "largeIconUri": "file://assets/images/de-DE_largeIconUri.png"
+        }  
       },
       "automaticDistribution": {
         "isActive": false
