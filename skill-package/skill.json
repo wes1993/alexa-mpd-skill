@@ -10,10 +10,8 @@
             "help"
           ],
           "keywords": [],
-          "name": "My Jukebox",
+          "name": "MyJukebox",
           "description": "Sample Full Description",
-          "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
-          "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
         }
         "it-IT": {
           "summary": "Beispiel Kurze Beschreibung",
@@ -23,17 +21,14 @@
             "hilfe"
           ],
           "keywords": [],
-          "name": "Meine Jukebox",
+          "name": "MeineJukebox",
           "description": "Beispiel Vollständige Beschreibung",
-          "smallIconUri": "file://assets/images/de-DE_smallIconUri.png",
-          "largeIconUri": "file://assets/images/de-DE_largeIconUri.png"
         }  
       },
       "automaticDistribution": {
         "isActive": false
       },
       "isAvailableWorldwide": true,
-      "testingInstructions": "{\"ask_dist_username\":\"\",\"ask_dist_password\":\"\",\"ask_dist_testing_instructions\":\"Sample Testing Instructions.\"}",
       "category": "STREAMING_SERVICE",
       "distributionCountries": []
     },
